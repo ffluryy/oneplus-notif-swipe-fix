@@ -1,0 +1,36 @@
+*.iml
+.gradle/
+/local.properties
+local.properties
+/.idea/
+/build/
+/app/build/
+/captures/
+.externalNativeBuild/
+.cxx/
+
+# APK / AAB
+*.apk
+*.aab
+
+# Signing
+*.jks
+*.keystore
+keystore.properties
+
+# Claude Code
+.claude/
+CLAUDE.md
+CLAUDE.MD
+**/CLAUDE.md
+**/CLAUDE.MD
+
+# OS files
+*.DS_Store
+Thumbs.db
+nul
+
+# Environment
+.env
+.env.*
+*.log

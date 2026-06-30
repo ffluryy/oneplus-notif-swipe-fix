@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NotifGestureFix</string>
+
+    <!-- Module status -->
+    <string name="module_active">Module is active</string>
+    <string name="module_inactive">Module is not active — enable in LSPosed and reboot</string>
+</resources>
