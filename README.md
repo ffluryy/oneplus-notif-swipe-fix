@@ -9,7 +9,7 @@ It hooks onInterceptTouchEvent (the method that runs every time a touch/swipe on
 ## Requirements
 
 - Rooted device with [LSPosed](https://github.com/LSPosed/LSPosed) installed
-- OOS 16.0.7 device (June update)
+- OOS 16.0.7 device (June 2026 update)
 
 ## Installation
 
@@ -32,7 +32,7 @@ Forked from [AutoExpandNotifications](https://github.com/kvmy666/autoexpand) by 
 
 ## Disclaimer
 
-This module modifies system UI internals. Use at your own risk. Tested on Oneplus 13T PKX1100 converted to OOS (CPH2723_16.0.7.200) only — behaviour on other devices or firmware versions is not guaranteed.
+This module modifies system UI internals. Use at your own risk. Tested on OnePlus 13T PKX1100 converted to OOS (CPH2723_16.0.7.200) only — behaviour on other devices or firmware versions is not guaranteed.
 
 ---
 
